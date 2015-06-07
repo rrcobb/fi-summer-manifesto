@@ -74,3 +74,9 @@ section {
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
 }
+
+.logo {
+  margin: 1%;
+  position: relative;
+  bottom:245px;
+}
